@@ -1,0 +1,18 @@
+{
+    "name": "netaffiliation-api",
+    "version": "0.0.1",
+    "description": "API integration with Netaffiliation",
+    "author": "André Ferreira <andrehrf@gmail.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/itsimpleapp/netaffiliation-api-nodejs"
+    },
+    "bugs": {
+        "url": "https://github.com/itsimpleapp/netaffiliation-api-nodejs/issues"
+    },
+    "homepage": "https://github.com/itsimpleapp/netaffiliation-api-nodejs",
+    "dependencies": {
+        "request": "^2.72.0"
+    }
+}
