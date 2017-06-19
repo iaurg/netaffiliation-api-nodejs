@@ -63,7 +63,6 @@ module.exports = function(user, pass){
             params['authl'] = user;
             params['authv'] = pass;
             let URL = this.createurl("https://stat.netaffiliation.com/listing.php", params);
-            console.log(URL);
             this.getinapi(URL, params, cb);
         },
         
